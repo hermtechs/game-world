@@ -1,0 +1,14 @@
+.hello{
+    background: blue;
+}
+.nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;   
+    padding: 0.3rem 0.8rem;
+}
+nav img{
+    width: 60px;
+}
